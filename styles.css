@@ -1,0 +1,13 @@
+.container-fluid {
+    height: 100vh;
+    color: white;
+}
+
+.title {
+    height: 10%;
+}
+
+.buyBox {
+    height: 90%;
+}
+
